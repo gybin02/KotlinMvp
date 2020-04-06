@@ -13,7 +13,6 @@
 
 ![这里写图片描述](https://github-1253441343.cos.ap-chengdu.myqcloud.com/ic_launcher.png)
 
-- **GitHub地址：** [https://github.com/git-xuhao/KotlinMvp](https://github.com/git-xuhao/KotlinMvp)
 
 - **(附上 Java 版本的MVP基础框架)** [https://github.com/git-xuhao/Android-MVP-Architecture](https://github.com/git-xuhao/Android-MVP-Architecture)
 
@@ -43,14 +42,6 @@ Kotlin 团队为 Android 开发提供了一套超越标准语言功能的工具�
    <img src="/screenshot/kotlin-mvp-1.gif" style="width: 30%;">
 
 
-## 下载体验
-
-点击[![](https://img.shields.io/badge/Download-apk-green.svg)](https://fir.im/kotlinmvp) 或者扫描下方二维码
-
-**（下方二维码，每日上限100次，如达到上限，还是 clone 源码吧！✧(≖ ◡ ≖✿)）**
-
-<img src="https://github-1253441343.cos.ap-chengdu.myqcloud.com/WX20190307-154811%402x.png" width = "250" height = "250" alt="图片名称" align=center />
-
 
 
 ## 技术要点
@@ -76,54 +67,4 @@ Kotlin 团队为 Android 开发提供了一套超越标准语言功能的工具�
  - **搜索：** 根据关键字搜索榜你找到感兴趣的视频。
  - **我的：** 个人主页的相关介绍。
  - **观看记录：** 查看之前看过的视频，按时间进行排序。
-
-## 更新日志
-
-**[最新记录请点击查看](https://github.com/git-xuhao/KotlinMvp/releases)**
-
-**v1.3.0**
-
- - Kotlin版本升级，优化 kotlin 用法；
- - 修复分类详情老接口不能使用问题(原 api 有改动）;
- - 优化代码；
-
-**v1.1**
-
- - 去除无用代码，添加观看记录功能。
-
-**v1.0**
-
- - 初始化版本，主要功能已经完成。
-
-## 关于我
-
- - Email: igeekho@gmail.com
- - Home: [https://xuhaoblog.com](https://xuhaoblog.com)
- - CSDN:[http://blog.csdn.net/u011974987](http://blog.csdn.net/u011974987)
- - 简书: [http://www.jianshu.com/u/25bc3e1e7595](http://www.jianshu.com/u/25bc3e1e7595)
-
-## Thanks
-
-- 感谢所有优秀的开源项目
-
-## 声明
-**项目中的 API 均来自开眼视频，纯属学习交流使用，不得用于商业用途！**
-
-## LICENSE
-
-```
-Copyright 2017 Xiho
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
 
